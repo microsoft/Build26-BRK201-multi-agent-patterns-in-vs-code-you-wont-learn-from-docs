@@ -24,7 +24,7 @@ Building with one agent is familiar. Orchestrating a fleet of them in parallel a
 | Resource | Description |
 |:---------|:------------|
 | [aka.ms/build26-next-steps](https://aka.ms/build26-next-steps) | Explore lab and session repos to further your learning from Microsoft Build |
-|[aka.ms/VSCode/Learn](https://aka.ms/VSCode/Learn) | Learn agent-first development in VS Code |
+| [aka.ms/VSCode/Learn](https://aka.ms/VSCode/Learn) | Learn agent-first development in VS Code |
 | [aka.ms/VSCode/Live](https://aka.ms/VSCode/Live) | Sign up for our next monthly release livestream | 
 | [aka.ms/AwesomeCopilot](https://aka.ms/AwesomeCopilot) | Community-contributed agents, instructions, and skills. | 
 
@@ -54,10 +54,10 @@ For more info, other clients, and to post questions, visit the [Learn MCP Server
 
 <table>
 <tr>
-    <td align="center"><a href="http://github.com/yourGitHubHandle">
-        <img src="https://github.com/yourGitHubHandle.png" width="100px;" alt="INSERT NAME HERE"/><br />
-        <sub><b>INSERT NAME HERE</b></sub></a><br />
-            <a href="https://github.com/yourGitHubHandle" title="talk">📢</a>
+    <td align="center"><a href="http://github.com/AnnaSoracco">
+        <img src="https://github.com/AnnaSoracco.png" width="100px;" alt="Anna Soracco"/><br />
+        <sub><b>Anna Soracco</b></sub></a><br />
+            <a href="https://github.com/annasoracco" title="talk">📢</a>
     </td>
 </tr></table>
 
